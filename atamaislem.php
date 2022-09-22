@@ -6,7 +6,7 @@ $atama=40;
 //echo $atama+10;
 
 echo $atama+=12;
-//+= operatörü değişkenin değerini belirtilen sayıda artırır
+//+= deneme operatörü değişkenin değerini belirtilen sayıda artırır
 
 echo "<br>";
 echo $atama-=10;echo "<br>";echo "<br>";
